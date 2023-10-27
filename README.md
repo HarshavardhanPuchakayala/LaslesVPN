@@ -12,3 +12,4 @@ Testimonials: Include customer reviews and testimonials to build trust and credi
 FAQs: Address common questions about your service.
 Contact Information: Provide a way for visitors to get in touch with you, such as a contact form, email address, or chat support.
 Footer: Include links to your privacy policy, terms of service, and any other legal pages. Also, add social media icons for easy sharing.
+![Screenshot (112)](https://github.com/HarshavardhanPuchakayala/LaslesVPN/assets/85436195/862e2ad9-a0df-45b4-84ac-c1c6d5b2f2b6)
